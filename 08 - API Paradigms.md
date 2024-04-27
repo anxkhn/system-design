@@ -1,10 +1,12 @@
 # API Paradigms
 
+API stands for **Application Programming Interface**
+
 ## REST APIs
 
-- REST stands for Representational State of Transfer
+- REST stands for REpresentational State of Transfer
 - Stateless, meaning the server doesn't store any information about the client
-- Uses HTTP methods (GET, POST, PUT, DELETE) to interact with resources
+- Uses HTTP methods (GET, POST, PUT/PATCH, DELETE) to interact with resources
 - Resources are identified by URIs (Uniform Resource Identifiers)
 - HTTP status codes are used to indicate the outcome of a request
 - JSON (JavaScript Object Notation) is a popular data format used in REST APIs
@@ -12,6 +14,7 @@
 
 ## GraphQL APIs
 
+- GraphQL is built by Facebook
 - GraphQL is a query language for APIs
 - Allows clients to specify exactly what data they need from the server
 - Reduces over-fetching and under-fetching of data
