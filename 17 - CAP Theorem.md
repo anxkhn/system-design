@@ -44,6 +44,8 @@ The CAP Theorem is important because it highlights the trade-offs we have to mak
 
 The P-A-C-E-L-C theorem is an extension of the CAP Theorem. It stands for:
 
+![image](https://github.com/user-attachments/assets/e6706510-e882-4cad-b151-0a5627146269)
+
 - P: Partition (yes or no)
 - A: Availability
 - C: Consistency
