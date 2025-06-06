@@ -1,5 +1,3 @@
-Here are the detailed and verbose notes on API Design:
-
 ## Basics of API Design
 
 API design is about controlling the interface of an API, also known as the API contract, which describes how to use a particular API. An API is a service that provides functionality, such as the Twitter API or the Reddit API.
